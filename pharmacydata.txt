@@ -8,6 +8,3 @@ Some data that will be encountered
 - Databases for research 
 - Lab results for testing 
 - Prescription prices 
-
-
-
