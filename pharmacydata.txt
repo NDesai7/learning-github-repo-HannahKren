@@ -1,8 +1,12 @@
 List all data you will use as a pharmcist
 
 Some data that will be encountered 
-- Prescription information 
+- Prescription information  
 - Patient information
+    -Pt DOB
+    -Pt Allergies
+    -Pt Address
+    -Pt Phone Number
 - Insurance information
 - Hospital information 
 - Databases for research 
